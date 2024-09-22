@@ -7,18 +7,17 @@
 - Remote Accessibility via Web Desktop
 - Customizable Desktop Environment
 - Running Containers and Subsystems
-- Running Native and Non-Native (Windows, Android, etc) Games and Softwares
+- Running Native and Non-Native (Windows, Android, etc) Games and Software
 - Running Virtual Machines via QEMU/KVM
 - Sharing Files and Media cross-platforms (including Windows, Android, iOS, macOS, TV, Linux, etc)
 - 'Build Your Own OS' - Tailor-made Experience allowing users to select/install only the feature they want, from a minimal server environment to a feature-rich complete desktop
-- No bloatwares, we let users to install only what they want
-<!--
+- No bloatware, we let users install only what they want
 
-**Here are some ideas to get you started:**
+### Supported Devices
+1usOS can be installed on any UEFI-based PCs running `x86_64` or `aarch64` and some SBCs (Single Board Computer) such as Raspberry Pi, Radxa Rock 5, Orange Pi, etc.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Will you support RISC-V?
+Arch Linux currently supports `x86_64` only, both Arch Linux RISC-V and Arch Linux ARM are unofficial projects, @kwankiu, the owner of this project, has been maintaining serval aarch64 SBCs making 1usOS available for `aarch64`, it is time-consuming and hard to maintain multiple architectures, therefore, 1usOS is unlikely to support RISC-V before Arch Linux officially supports `risc-v`.
+
+### Where can I get 1usOS?
+1usOS is currently in development, it is not yet available for download. You may join [our discord](https://discord.gg/jJDcp4qswV) to keep track of the progress.
