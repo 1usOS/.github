@@ -10,7 +10,7 @@
 - Running Native and Non-Native (Windows, Android, etc) Games and Softwares
 - Running Virtual Machines via QEMU/KVM
 - Sharing Files and Media cross-platforms (including Windows, Android, iOS, macOS, TV, Linux, etc)
-- Tailor-made Experience allowing users to select/install only the feature they want, from a minimal server environment to a feature-rich complete desktop (no bloatwares, we let users to install only what they want)
+- 'Build Your Own OS' - Tailor-made Experience allowing users to select/install only the feature they want, from a minimal server environment to a feature-rich complete desktop (no bloatwares, we let users to install only what they want)
 <!--
 
 **Here are some ideas to get you started:**
